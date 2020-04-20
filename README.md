@@ -55,7 +55,7 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
 
 a) Denkleminizi **2,31E-03 + 1,81x + -1.22x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? **a=ivme b=hız c=konum. a ivmeyi temsil eder ve bu bir yavaşlayan harekettir.**
 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
+b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?  **Hava sürtünmesi ihmal edersek sadece masanın sürtünme kuvveti olur ve bu sürtünme kuvveti cisim harekete geçtiğinden sonra sabitlenir yani ivme sabitlenmiş olur.**
 
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
 
