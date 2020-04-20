@@ -43,14 +43,15 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
 | 16    | 0,15   |   	0,25  |
 | 18    | 0,183    |   0,295  |
 | 21    |0,23    |   0,36  |
-| 23    | 16/60    |   0,4    |
-| 25    | 18/60    |   0,44   |
-| 28    | 21/60    |   0,49   |
-| 33    | 26/60    |   0,55   |
-| 38    | 31/60    |   0,61   | 
-| 45    | 38/60    |   0,65   |
-| 48    | 41/60    |   0,67   |
-| 53    | 46/60    |   0,675  |
+| 23    | 	0,26   |   0,4    |
+| 25    | 0,3   |   0,44   |
+| 28    | 	0,35   |   0,49   |
+| 33    |	0,43    |   0,55   |
+| 38    | 	0,516  |   0,61   | 
+| 45    | 	0,63   |   0,65   |
+| 46    | 0,633   |   0,66   |
+| 48    |	0,683  |   0,67   |
+| 53    | 0,76	    |   0,675  |
 
 a) Denkleminizi **2,31E-03 + 1,81x + -1.22x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
 
